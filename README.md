@@ -44,12 +44,3 @@ This project demonstrates the implementation of a **Snake Game** powered by **Re
 2. Simulate episodes of the game.
 3. Update Q-values or train the neural network based on rewards.
 4. Gradually improve the agent's performance through exploration and exploitation.
-
-### Gameplay
-After training, the agent can play the Snake Game autonomously. It demonstrates strategic behavior such as avoiding obstacles, chasing food, and optimizing its path.
-
-## Installation and Usage
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/rl-snake-game.git
-   cd rl-snake-game
